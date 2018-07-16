@@ -1,7 +1,12 @@
+/* ESTO ES UN COMENTARIO EN CSS */
+
+/* Estilos Generales Útiles:
+Declarar los siguientes estilos es recomendable ya que son de uso común: 
+--> body (El documento en general)
+--> a (y sus variantes, para definir cómo se ven los hipervínculos)
+*/
+
 body {
-    font-family: Arial;
-    color: red;
-    font-size: 25px;
 }
 
 a {
@@ -16,27 +21,8 @@ a:active {
 a:visited {
 }
 
-p {
-    text-align: center;
-    color: red;
-    font-size: 25px;
-    font-family: Tahoma,Arial,Helvetica;
-}
 
-
-
-#uno {
-	width:25%;
-	height:25%;
-	background-color:red;
-}
-
-seba{
-    font-size: 48px;
-    color: deeppink;
-    font-family: Helvetica;
-}
-
+/*EJEMPLOS DE DECLARACIÓN*/
 /* 	Ejemplo de Declaración de Clase */
 .nombreDeClase {
 }
@@ -46,6 +32,5 @@ seba{
 }
 
 /* Ejemplo de Declaración de Etiqueta */
-
 nombreDeEtiqueta {
 }
