@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    color: red;
+    font-size: 25px;
+}
+
+a {
+}
+
+a:hover {
+}
+
+a:active {
+}
+
+a:visited {
+}
+
+p {
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-family: Tahoma,Arial,Helvetica;
+}
+
+
+
+#uno {
+	width:25%;
+	height:25%;
+	background-color:red;
+}
+
+seba{
+    font-size: 48px;
+    color: deeppink;
+    font-family: Helvetica;
+}
+
+/* 	Ejemplo de Declaración de Clase */
+.nombreDeClase {
+}
+
+/* Ejemplo de Declaración de Objeto */
+#nombreDeObjeto {
+}
+
+/* Ejemplo de Declaración de Etiqueta */
+
+nombreDeEtiqueta {
+}
