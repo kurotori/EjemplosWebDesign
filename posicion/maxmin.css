@@ -1,0 +1,25 @@
+
+#maximo {
+    width: 50%;
+    height: 550px;
+    background-color: dodgerblue;
+    max-width: 300px;
+    margin: auto;
+    border: 2px black solid;
+}
+
+#minimo {
+    width: 500px;
+    height: 50%;
+    background-color:forestgreen;
+    max-height: 250px;
+    margin: auto;
+    border: 2px black solid;
+}
+
+#otro {
+    height: 50%;
+    min-height: 100px;
+    width: 50%;
+    border: 2px black solid;
+}

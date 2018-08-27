@@ -1,0 +1,27 @@
+
+img {
+    height: 35%;
+    width: 35%;
+    min-height: 100px;
+    max-height: 156px;
+    min-width: 100px;
+    max-width: 156px;
+}
+
+#boton {
+    width: 80px;
+    height: 80px;
+    border: 2px solid;
+    border-color: #12D522;
+    background-color: #12D522;
+    color: #12D522;
+    font-size: 35px;
+    overflow: hidden;
+}
+#boton:hover{
+    background-color: white;
+    background-image: url(Deepin_logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}

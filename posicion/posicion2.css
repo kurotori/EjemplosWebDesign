@@ -1,0 +1,55 @@
+body {
+}
+
+a {
+}
+
+a:hover {
+}
+
+a:active {
+}
+
+a:visited {
+}
+
+
+.fila {
+    height: 20%;
+    width: 100%;
+    border-bottom: black 3px solid;
+}
+
+.celda {
+    width: 33.3%;
+    height: 100%;
+}
+
+#uno {
+    float: left;
+    background-color: red;
+}
+#dos {
+    float: left;
+    background-color: yellow;
+}
+
+#tres {
+    position: relative;
+    float: left;
+    background-color: red;
+    left: 120px;
+}
+
+#cuatro {
+    background-color: blue;
+    float: left;
+    position: relative;
+    left: 50px;
+}
+
+#cinco {
+    background-color: coral;
+    position: relative;
+    right: 0px;
+}

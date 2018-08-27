@@ -1,0 +1,63 @@
+body {
+}
+
+a {
+}
+
+a:hover {
+}
+
+a:active {
+}
+
+a:visited {
+}
+
+.arriba {
+    float: left;
+}
+.abajo {
+    float: left;
+}
+.principal {
+    width: 50%;
+    height: 50%;
+}
+
+#uno {
+    float: left;
+    background-color: red;
+}
+
+#dos {
+    float: left;
+    background-color: green;
+}
+
+#tres {
+    float: left;
+    background-color: yellow;
+}
+
+#cuatro {
+    background-color: blue;
+}
+
+.fila {
+    width: 100%;
+    height: 33%;
+}
+
+.celda {
+    float: left;
+    height: 100%;
+    width: 33%;
+}
+
+#cinco {
+    background-color: purple;
+}
+
+#seis {
+    background-color: crimson;
+}
